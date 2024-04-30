@@ -1,1 +1,1 @@
-#Language Translator App
+Language Translator App
